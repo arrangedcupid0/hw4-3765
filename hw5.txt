@@ -1,0 +1,14 @@
+1.
+    Database: structured collection of data. Includes relationships between columns or rows.
+    Database Management System: intermediary between the database and everything that wants to access it. Allows for more detailed access control than just the OS.
+    Query Language: used to access data in a database. Examples include SQL and typically utilize relational algebra.
+2.
+    
+3.
+
+
+1.
+2.
+3.
+4.
+5.
